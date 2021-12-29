@@ -1,2 +1,3 @@
 20211226	16:32:56	f42c43ab-b17b-42be-9a61-79dd9155b319	TypeError: fsPromises.readFil is not a function
 20211226	21:29:16	0987b63d-85a8-4159-9cdb-cef3b48bfb2d	Error: Not allowed by CORS
+20211228	20:37:20	740e0988-c6c6-4b99-af00-7d84f253ed9b	ReferenceError: employees is not defined
