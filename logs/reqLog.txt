@@ -49,3 +49,6 @@
 20211228	20:36:45	f59e1fe4-7fde-4bb0-a3f4-c4eac0601f96	DELETE	undefined	/employees
 20211228	20:37:20	7f409897-26bf-48b5-93e1-89abd511f5be	GET	undefined	/employees/1
 20211228	20:40:43	2b9c6d73-829b-4e4d-8b7d-f1070c64bc4f	GET	undefined	/employees/1
+20211229	20:16:12	b2578ca9-a0be-44bc-b6f5-36167cf7b1b1	POST	undefined	/register
+20211229	20:17:31	f242270d-5e0f-4708-941b-bec950c627f8	POST	undefined	/register
+20211229	20:18:29	c4227438-28ce-4cd1-ad21-9b05efc1a1fe	POST	undefined	/register
