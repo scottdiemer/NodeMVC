@@ -64,3 +64,11 @@
 20220104	20:01:14	9e098c33-2574-41c3-ab63-1f28a4102c38	GET	undefined	/employees
 20220104	20:01:19	c6706010-27e0-45d8-92cb-67a983eb6502	GET	undefined	/employees
 20220104	20:02:18	b420ca21-b1ec-4944-9214-f17758a344e0	POST	undefined	/employees
+20220105	20:46:42	5f42834d-82f7-47c3-a2c8-587b0e60e57c	POST	undefined	/auth
+20220105	20:49:32	b49c271a-cbcc-404f-b3a3-a8348f6de779	GET	undefined	/refresh
+20220105	20:50:11	f3eeced7-836d-4ed7-91a4-3f858ac2bc93	GET	undefined	/refresh
+20220105	20:50:15	946c802b-113a-440e-8abc-3645412504b8	GET	undefined	/refresh
+20220105	21:22:07	6b64a6f4-3a37-4b47-9dc4-01fa5f553d5a	POST	undefined	/auth
+20220105	21:23:44	73ed126e-cdef-482b-a8a3-e254dbbbde60	GET	undefined	/logout
+20220105	21:24:33	7d475adb-7329-4da0-bd97-2d4e04bd1ff5	GET	undefined	/refresh
+20220105	21:27:31	84541666-6e62-43ad-9716-afe1e652745c	POST	undefined	/auth
